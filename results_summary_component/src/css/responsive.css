@@ -1,0 +1,21 @@
+@media screen and (max-width: 600px) {
+    main {
+      max-width: 375px; 
+      margin: 10% auto; 
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .primary_box,
+    .secundary_box {
+      width: 100%;
+      text-align: center; 
+    }
+  
+    .mini_box_1,
+    .mini_box_2,
+    .mini_box_3,
+    .mini_box_4 {
+      width: 100%; 
+    }
+  }
